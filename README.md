@@ -36,4 +36,11 @@ This project is ideal for **beginners and aspiring data analysts**! 🚀
 
 ---
 
-## 🚀 **Getti
+## 🚀 **Getting Started**  
+### **Prerequisites**  
+Ensure you have **Python 3.x** installed with the required dependencies.  
+
+### **Install Dependencies**  
+Run the following command:  
+```bash
+pip install pandas numpy matplotlib seaborn requests
